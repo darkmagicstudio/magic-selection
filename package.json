@@ -2,7 +2,7 @@
   "name": "@killianog/custom-selection",
   "version": "1.0.0",
   "description": "Add custom ::selection css pseudo-element to website using data attributes all so you can improve your websites look and feel",
-  "main": "./src/index.js",
+  "main": "./dist/custom-selection.core.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -25,4 +25,6 @@
     "url": "https://github.com/killianog/css-selection/issues"
   },
   "homepage": "https://github.com/killianog/css-selection#readme"
+
 }
+
