@@ -1,6 +1,6 @@
 <h1 align="center">Custom CSS Selection</h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/83577130/197255117-b4dc404d-71bb-4d5f-99a4-0962b119d0ad.png" />
+  <img src="https://github.com/killianog/css-selection/blob/8d4a36c3ea34000a7b3ab71bc1b82c14a939b170/assets/star-small.png?raw=1" />
 </p>
 
 
