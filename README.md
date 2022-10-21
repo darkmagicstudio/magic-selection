@@ -5,9 +5,14 @@
 > ⚠️ Custom CSS Selection is a controversial practice that can cause usability, accessibility, and performance issues. Don't override selected text styles for purely aesthetic reasons — users can customize them to suit their needs. For people experiencing cognitive concerns or who are less technologically literate, unexpected changes to selection styles may hurt their understanding of the functionality. If overridden, it is important to ensure that the contrast ratio between the text and background colors of the selection is high enough that people experiencing low vision conditions can read it.
 
 
+#### CDN
+```html
 
-```sh
-https://cdn.jsdelivr.net/gh/killianog/custom-css-selection@dist/js/custom-css-selection.js
+<script scr="https://cdn.jsdelivr.net/npm/css-selection@1.0.0/index.js"></script>
+```
+#### NPM
+```html
+npm i css-selection
 ```
 
 ## Usage
@@ -36,6 +41,20 @@ With simple detection.
 | `data-selection-text-decoration-line` | `string`  | ![https://img.shields.io/badge/-coming%20soon-inactive](https://img.shields.io/badge/-coming%20soon-inactive) Add line decorations using `underline` , `overline` & `line-through` |
 | `data-selection-text-decoration-style` | `string` | ![https://img.shields.io/badge/-coming%20soon-inactive](https://img.shields.io/badge/-coming%20soon-inactive) Add line styles using `solid`, `double`, `dotted`, `dashed` & `wavy` |
 | `data-selection-text-decoration-thickness` | `string` | ![https://img.shields.io/badge/-coming%20soon-inactive](https://img.shields.io/badge/-coming%20soon-inactive) |
+
+## Demo
+![demo](https://user-images.githubusercontent.com/83577130/189996561-4e541c42-f857-4a28-82ab-42b818972cc1.gif)
+
+#### Values Used
+| attribute | value |
+| :--- | :---: |
+| data-selection | - |
+| data-selection-color | #f7f33a |
+| data-selection-text-color | #cba6d6 |
+###### Final Element
+```html
+<body data-selection data-selection-color="#f7f33a" data-selection-text-color="#cba6d6"></body>
+```
 
 ## Browser support
 source : mdn web docs
