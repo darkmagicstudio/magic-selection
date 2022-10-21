@@ -1,8 +1,7 @@
 <h1 align="center">Custom CSS Selection</h1>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/83577130/197253641-7e22db93-9ae1-48c4-ad17-410a954dd956.png" />
+  <img src="https://user-images.githubusercontent.com/83577130/197255117-b4dc404d-71bb-4d5f-99a4-0962b119d0ad.png" />
 </p>
-
 
 Add custom `::selection` css pseudo-element to website using data attributes all so you can improve your websites look and feel
 
