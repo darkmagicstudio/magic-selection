@@ -1,4 +1,4 @@
-# css-selection
+# Custom CSS Selection
 
 ## Installation
 
@@ -6,13 +6,10 @@
 
 
 #### CDN
+Inside `<body>` closing tag
 ```html
-
-<script scr="https://cdn.jsdelivr.net/npm/css-selection@1.0.0/index.js"></script>
-```
-#### NPM
-```html
-npm i css-selection
+<!-- Custom Selection -->
+<script scr="https://cdn.jsdelivr.net/npm/@killianog/custom-selection1.0.0/dist/custom-selection.core.js"></script>
 ```
 
 ## Usage
@@ -67,3 +64,7 @@ source : mdn web docs
 |  | Chrome | Edge | Firefox | Opera | Safari | Chrome Android | Firefox for Android | Opera Android | Safari on iOS | Samsung Internet | WebView Android |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | ::selection | ![https://img.shields.io/badge/-%20Version%201-success](https://img.shields.io/badge/-%20Version%201-success)| ![https://img.shields.io/badge/-%20Version%2012-success](https://img.shields.io/badge/-%20Version%2012-success) | ![https://img.shields.io/badge/-%20Version%2062-success](https://img.shields.io/badge/-%20Version%2062-success) | ![https://img.shields.io/badge/-%20Version%209.5-success](https://img.shields.io/badge/-%20Version%209.5-success) | ![https://img.shields.io/badge/-%20Version%201.1-success](https://img.shields.io/badge/-%20Version%201.1-success) | ![https://img.shields.io/badge/-%20Version%2018-success](https://img.shields.io/badge/-%20Version%2018-success) | ![https://img.shields.io/badge/-%20Version%2062-success](https://img.shields.io/badge/-%20Version%2062-success) | ![https://img.shields.io/badge/-%20Version%2014-success](https://img.shields.io/badge/-%20Version%2014-success) | ![https://img.shields.io/badge/-No%20Support-critical](https://img.shields.io/badge/-No%20Support-critical) | ![https://img.shields.io/badge/-%20Version%201.0-success](https://img.shields.io/badge/-%20Version%201.0-success) | ![https://img.shields.io/badge/-%20Version%2037-success](https://img.shields.io/badge/-%20Version%2037-success) |
+
+
+## Useful Links
+[mdn web docs ](https://developer.mozilla.org/en-US/docs/Web/CSS/::selection)

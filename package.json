@@ -1,0 +1,28 @@
+{
+  "name": "@killianog/custom-selection",
+  "version": "1.0.0",
+  "description": "Add custom ::selection css pseudo-element to website using data attributes all so you can improve your websites look and feel",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killianog/css-selection.git"
+  },
+  "keywords": [
+    "attributes",
+    "css",
+    "data attributes" ,
+    "pseudo-element",
+    "::selection",
+    "javascript"
+
+  ],
+  "author": "killianog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/killianog/css-selection/issues"
+  },
+  "homepage": "https://github.com/killianog/css-selection#readme"
+}
