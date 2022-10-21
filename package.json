@@ -1,5 +1,5 @@
 {
-  "name": "killianog/custom-selection",
+  "name": "custom-selection",
   "version": "1.0.0",
   "description": "Add custom ::selection css pseudo-element to website using data attributes all so you can improve your websites look and feel",
   "main": "./dist/custom-selection.core.js",
