@@ -7,7 +7,7 @@
 }" align="center"><img alt="npm" src="https://img.shields.io/npm/v/custom-selection?color=D9B4FF&logo=npm"><img alt="npm bundle size" src="https://img.shields.io/bundlephobia/min/custom-selection?color=1a1a1a&label=size"></div>
 
 <p align="center">
-  <img src="https://github.com/killianog/css-selection/blob/8d4a36c3ea34000a7b3ab71bc1b82c14a939b170/assets/star-small.png?raw=1" />
+  <img src="https://github.com/killianog/css-selection/blob/8d4a36c3ea34000a7b3ab71bc1b82c14a939b170/assets/star-small.png" />
 </p>
 
 
