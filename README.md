@@ -1,5 +1,6 @@
 # Custom CSS Selection
 
+
 ## Installation
 
 > ⚠️ Custom CSS Selection is a controversial practice that can cause usability, accessibility, and performance issues. Don't override selected text styles for purely aesthetic reasons — users can customize them to suit their needs. For people experiencing cognitive concerns or who are less technologically literate, unexpected changes to selection styles may hurt their understanding of the functionality. If overridden, it is important to ensure that the contrast ratio between the text and background colors of the selection is high enough that people experiencing low vision conditions can read it.
@@ -45,9 +46,9 @@ With simple detection.
 #### Values Used
 | attribute | value |
 | :--- | :---: |
-| data-selection | - |
-| data-selection-color | #f7f33a |
-| data-selection-text-color | #cba6d6 |
+| `data-selection` | - |
+| `data-selection-color` | `#f7f33a` |
+| `data-selection-text-color` | `#cba6d6` |
 ###### Final Element
 ```html
 <body data-selection data-selection-color="#f7f33a" data-selection-text-color="#cba6d6"></body>
