@@ -7,7 +7,7 @@
 }" align="center">
 <img alt="npm" src="https://img.shields.io/npm/v/custom-selection?color=D9B4FF&logo=npm">
 <img alt="npm bundle size" src="https://img.shields.io/bundlephobia/min/custom-selection?color=1a1a1a&label=size">
-<img alt="jsdelivr.com" src="https://www.jsdelivr.com/package/npm/custom-selection">
+<img alt="jsdelivr.com" src="https://data.jsdelivr.com/v1/package/npm/custom-selection/badge">
 </div>
 
 <p align="center">
