@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/killianog/css-selection/blob/8d4a36c3ea34000a7b3ab71bc1b82c14a939b170/assets/star-small.png?raw=1" />
+  <img src="https://github.com/killianog/css-selection/blob/8d4a36c3ea34000a7b3ab71bc1b82c14a939b170/assets/star-small.png" />
 </p>
 
 [![Verified on Openbase](https://badges.openbase.com/js/verified/custom-selection.svg?token=8O/ktg1dftqn4fQUBW2IV70hSmAg++fAyPJfsBHBqiw=)](https://openbase.com/js/custom-selection?utm_source=embedded&amp;utm_medium=badge&amp;utm_campaign=rate-badge)
