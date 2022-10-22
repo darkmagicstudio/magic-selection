@@ -30,7 +30,7 @@ Inside `<body>` closing tag
 
 ```html
 <!-- Custom Selection -->
-<script scr="https://cdn.jsdelivr.net/npm/@killianog/custom-selection1.0.0/dist/custom-selection.core.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/custom-selection@1.1.2/dist/custom-selection.core.min.js"></script>
 ```
 
 ## Usage
