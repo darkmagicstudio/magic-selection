@@ -34,6 +34,7 @@
   <meta name="twitter:title" content="Custom Selection">
   <meta name="twitter:description" content="Add custom::selection CSS pseudo-element to websites using data attributes all so you can improve your website's look and feel">
   <meta name="twitter:image" content="https://github.com/killianog/css-selection/blob/main/assets/open_graph_image.png?raw=true">
+  <script async src="https://cdn.splitbee.io/sb.js"></script>
         
     <link
       href="styles.css"
@@ -923,37 +924,37 @@
             <div class="index-flex is--content">
               <ul role="list" class="index-list">
                 <li class="index-list-item first">
-                  <a data-gtm-event="Background Color Link" href="#1-background-color" class="link w-inline-block"
+                  <a data-splitbee-event="Section Link" data-splitbee-event-sl="Background Color" data-gtm-event="Background Color Link" href="#1-background-color" class="link w-inline-block"
                     ><div class="number"><div>1</div></div>
                     <div>Background Color</div></a
                   >
                 </li>
                 <li class="index-list-item">
-                  <a data-gtm-event="Text Color Link" href="#2-text-color" class="link w-inline-block"
+                  <a data-splitbee-event="Section Link" data-splitbee-event-sl="Text Color" data-gtm-event="Text Color Link" href="#2-text-color" class="link w-inline-block"
                     ><div class="number"><div>2</div></div>
                     <div>Text Color</div></a
                   >
                 </li>
                 <li class="index-list-item">
-                  <a data-gtm-event="Text Stroke Link" href="#3-text-stroke" class="link w-inline-block"
+                  <a data-splitbee-event="Section Link" data-splitbee-event-sl="Text Stroke" data-gtm-event="Text Stroke Link" href="#3-text-stroke" class="link w-inline-block"
                     ><div class="number"><div>3</div></div>
                     <div>Text Stroke</div></a
                   >
                 </li>
                 <li class="index-list-item">
-                  <a data-gtm-event="Text Decoration Link" href="#4-text-decoration" class="link w-inline-block"
+                  <a data-splitbee-event="Section Link" data-splitbee-event-sl="Text Decoration" data-gtm-event="Text Decoration Link" href="#4-text-decoration" class="link w-inline-block"
                     ><div class="number"><div>4</div></div>
                     <div>Text Decoration</div></a
                   >
                 </li>
                 <li class="index-list-item">
-                  <a data-gtm-event="GitHub and Installation Link" href="#gh" class="link w-inline-block"
+                  <a data-splitbee-event="Section Link" data-splitbee-event-sl="Github and Installation" data-gtm-event="GitHub and Installation Link" href="#gh" class="link w-inline-block"
                     ><div class="number"><div>5</div></div>
                     <div>Github &amp; Installation</div></a
                   >
                 </li>
                 <li class="index-list-item">
-                  <a data-gtm-event="Demos Link" href="#demos" class="link w-inline-block"
+                  <a data-splitbee-event="Section Link" data-splitbee-event-sl="Demos" data-gtm-event="Demos Link" href="#demos" class="link w-inline-block"
                     ><div class="number"><div>6</div></div>
                     <div>Demos</div></a
                   >
@@ -1160,7 +1161,7 @@
                 reported/requested before opening a new issue or submitting a
                 pull request.
               </p>
-              <a data-gtm-event="Github Link"
+              <a data-splitbee-event="Github Repo Link" data-gtm-event="Github Link"
                 href="https://github.com/killianog/css-selection"
                 class="link-to-gh w-inline-block"
                 ><div class="main">
@@ -1183,7 +1184,7 @@
                   <div>Check out on GitHub</div>
                 </div>
                 <div class="main"><div>→</div></div></a
-              ><a data-gtm-event="Js Delivr Link"
+              ><a data-splitbee-event="Js Delivr Link" data-gtm-event="Js Delivr Link"
                 href="https://www.jsdelivr.com/package/npm/custom-selection"
                 class="link-to-gh w-inline-block"
                 ><div class="main">
@@ -1206,7 +1207,7 @@
                 </div>
                 <div class="main"><div>→</div></div></a
               >
-              <a data-gtm-event="Github Docs Link"
+              <a data-splitbee-event="Docs Link" data-gtm-event="Github Docs Link"
                 href="https://github.com/killianog/css-selection/blob/a08ae7e23f1adbe65202868d95a7c3f363cbdf28/README.md"
                 class="link-to-gh w-inline-block"
                 ><div class="main">
@@ -1324,6 +1325,10 @@
     ></script> -->
     <script src="webflow.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/custom-selection@1.1.2/dist/custom-selection.core.min.js"></script>
+    <script>
+      let gtmE = document.querySelectorAll('[data-gtm-event]');
+
+    </script>
     <!--[if lte IE 9
       ]><script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script
     ><![endif]-->
