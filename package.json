@@ -16,7 +16,8 @@
     "data attributes" ,
     "pseudo-element",
     "::selection",
-    "javascript"
+    "javascript",
+    "webflow"
 
   ],
   "author": "killianog",
